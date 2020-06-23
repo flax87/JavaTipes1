@@ -1,3 +1,18 @@
+/*
+ * @author  Oleksii Shevchenko KNUTE 1m
+ *
+ *
+ *@version 01.06.20
+ *
+ * Modul 1 task 1
+ * Topic: Object-oriented programming,  JavaCollectionFramework
+
+Cycles. Practice.
+
+1. Write to console 8 facts about yourself using primitive types. (2 points)
+ */
+ 
+    
 package com.company;
 
 public class Main {
